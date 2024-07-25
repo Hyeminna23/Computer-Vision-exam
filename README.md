@@ -1,1 +1,1 @@
-# Computer-Vision-exam
+# Computer-Vision-example
